@@ -1,2 +1,3 @@
-# simple-calculator
-a simple cli base calculator using typescript nodejs  and inquirer
+"# simple-calculator" 
+"# simple-calculator" 
+"# simple-calculator" 
